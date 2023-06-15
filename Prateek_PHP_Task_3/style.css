@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px;
+}
+/* Creating flex */
+.form_flex{
+    display:flex;
+    justify-content: center;
+}
+
+input{
+    display: flex;   
+}
+/* Setting the height and width of the image output */
+img{
+    width:500px;
+    height:auto;
+}
